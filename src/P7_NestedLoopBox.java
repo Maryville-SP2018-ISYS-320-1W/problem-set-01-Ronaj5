@@ -1,7 +1,9 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+	Name(s): Rona Davis	
+	Date: March 28, 2018
+  	
+	This was included already so I don't understand what needs to be done.
 */
 
 /* 4. Your pseudocode algorithm here
